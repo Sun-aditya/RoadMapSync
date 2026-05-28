@@ -1,4 +1,4 @@
-# RoadMap
+# RoadMapSync
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
@@ -7,7 +7,7 @@
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-RoadMap is a full-stack learning roadmap app with a React + Vite frontend and a Node.js + Express backend. It helps users explore curated engineering tracks, track progress through milestones, and unlock achievements as they move through each roadmap.
+RoadMapSync is a full-stack learning roadmap app with a React + Vite frontend and a Node.js + Express backend. It helps users explore curated engineering tracks, track progress through milestones, and unlock achievements as they move through each roadmap.
 
 ## Features
 
